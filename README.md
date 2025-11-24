@@ -29,7 +29,7 @@ This tool allows users to process multiple Excel and CSV files at once with just
 **Screenshot placeholder:**  
 <img src="images/screenshot.png" width="400">
 
-> Replace `images/screenshot.png` with your actual screenshot file.
+> Replace `screenshot.png` with your actual screenshot file.
 
 ---
 
