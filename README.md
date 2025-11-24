@@ -27,7 +27,8 @@ This tool allows users to process multiple Excel and CSV files at once with just
 ## 🖥 Demo / GUI Screenshot
 
 **Screenshot placeholder:**  
-<img src="images/screenshot.png" width="400">
+![GUI Screenshot](screenshot.png)
+
 
 > Replace `screenshot.png` with your actual screenshot file.
 
